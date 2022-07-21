@@ -1,0 +1,5 @@
+flask
+flask-restful
+joblib
+jq
+gunicorn
